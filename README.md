@@ -1,6 +1,7 @@
 Continuous Integration Demo
 ============================
 [![Build Status](https://app.travis-ci.com/patkamon/demo-pyci.svg?branch=master)](https://app.travis-ci.com/patkamon/demo-pyci)
+[![codecov](https://codecov.io/gh/patkamon/demo-pyci/branch/master/graph/badge.svg?token=E5A2XIE8SC)](https://codecov.io/gh/patkamon/demo-pyci)
 
 This project demonstrates use of Travis CI to build and test a Python project.  
 You will create a repository on Github, then have Travis-CI pull and test it,
